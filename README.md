@@ -78,9 +78,13 @@ I enjoy turning ideas into real-world products while understanding the technolog
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishu1208m&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishu1208m&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img src="https://streak-stats.demolab.com?user=rishu1208m&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=rishu1208m&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu1208m&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### 🔗 Connect with me
