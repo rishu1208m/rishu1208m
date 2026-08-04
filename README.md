@@ -49,16 +49,16 @@ I enjoy turning ideas into real-world products while understanding the technolog
   <img src="https://img.shields.io/badge/System_Design-4B0082?style=for-the-badge" />
 </p>
 
-### 🌟 Featured projects
 
-| Project | Stack | What it does |
-|---|---|---|
-| **[BlogSpace](https://github.com/rishu1208m/BlogSpace)** | React · Node/Express · PostgreSQL · Prisma | Full-stack blogging platform with email OTP verification, Google OAuth, CRUD posts, comments, likes, bookmarks, search & pagination. |
-| **[Task-Manager](https://github.com/rishu1208m/Task-Manager)** | HTML5 · CSS3 · Vanilla JS | Dashboard-style Task Manager with zero frameworks — demonstrates DOM manipulation, event delegation, and the browser rendering pipeline. |
-| **[blood-donation-backend](https://github.com/rishu1208m/blood-donation-backend)** | Node.js · Express · MongoDB | Backend for a MERN Blood Donation App. |
-| **[LOGIN-REGISTRATION-AUTHENTICATION-SYSTEM](https://github.com/rishu1208m/LOGIN-REGISTRATION-AUTHENTICATION-SYSTEM)** | React · Node.js · Express · MongoDB | Full-stack auth system — JWT sessions, bcrypt password hashing, secure signup/login. |
-| **[smart-expense-tracker-backend](https://github.com/rishu1208m/smart-expense-tracker-backend)** | Java | Backend service for an expense-tracking app — paired with a JS frontend below. |
-| **[smart-expense-tracker-frontend](https://github.com/rishu1208m/smart-expense-tracker-frontend)** | JavaScript | Frontend client for the expense tracker, consuming the Java backend API. |
+### 🌟 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **BlogSpace** | React · Node.js · Express · PostgreSQL · Prisma | Full-stack blogging platform with Email OTP, Google OAuth, CRUD posts, comments, likes, bookmarks, search, and pagination. |
+| **Task Manager** | HTML · CSS · JavaScript | Dashboard-style Task Manager demonstrating DOM manipulation, event delegation, and browser rendering concepts. |
+| **Blood Donation Backend** | Node.js · Express · MongoDB | Backend API for a MERN Blood Donation application. |
+| **Authentication System** | React · Node.js · Express · MongoDB | JWT authentication with bcrypt password hashing and secure login/signup. |
+| **Smart Expense Tracker** | Java + JavaScript | Expense tracking application with separate Java backend and JavaScript frontend. |
 
 <details>
 <summary>🎨 More UI / layout work</summary>
@@ -78,13 +78,13 @@ I enjoy turning ideas into real-world products while understanding the technolog
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishu1208m&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishu1208m&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="170" src="https://streak-stats.demolab.com?user=rishu1208m&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=rishu1208m&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu1208m&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu1208m&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🔗 Connect with me
