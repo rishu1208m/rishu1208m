@@ -2,9 +2,9 @@
 
 # Hey, I'm Rishab 👋
 
-**Founder of The Moksha Miles** · Full-stack developer in the making · Student
+**Founder of The Moksha Miles** · Full-Stack Developer in Progress • Building products by mastering the fundamentals
 
-Building real products while learning the fundamentals underneath them — from raw DOM manipulation to full-stack apps with auth, databases, and ORMs.
+I enjoy turning ideas into real-world products while understanding the technology that powers them. My focus is on learning from first principles, from browser rendering and raw DOM manipulation to building scalable full-stack applications with authentication, databases, APIs, and modern ORMs. Every project is an opportunity to deepen my knowledge and write better software.
 
 </div>
 
@@ -12,10 +12,11 @@ Building real products while learning the fundamentals underneath them — from 
 
 ### 🚀 What I'm doing
 
-- 🧳 Founder of **The Moksha Miles** — a premium travel agency — currently building its full-stack web platform from scratch, solo.
-- 🎓 Final-year BCA student at Netaji Subhash Engineering College, affiliated with Maulana Abul Kalam Azad University of Technology — graduating next year.
-- 🛠️ Sharpening the fundamentals that matter for a full-stack developer: **DSA, Full-Stack Development, Gen AI, and System Design.**
+- 🧳 Founder of **The Moksha Miles** — Building a premium travel platform from the ground up, designing and developing the complete full-stack application independently.
+- 🎓 BCA Final-Year Student at Netaji Subhash Engineering College, affiliated with Maulana Abul Kalam Azad University of Technology — graduating next year.
+- 💻 Expanding My Technical Expertise: **Actively strengthening my skills in Data Structures & Algorithms, Full-Stack Development, Generative AI, and System Design through hands-on projects and continuous learning.**
 - 📚 Currently leveling up through **Sheryians Coding School — Cohort 3.0**.
+- 🎯 Mission: **To build software that solves real-world problems while continuously improving as a software engineer through consistent learning and practical experience.**
 
 ### 🧰 Tech I've shipped with
 
@@ -45,8 +46,6 @@ Building real products while learning the fundamentals underneath them — from 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/System_Design-4B0082?style=for-the-badge" />
 </p>
-
-<sub>⚠️ Swap these for whatever you're actually working through right now — keep this section honest and update it as you go.</sub>
 
 ### 🌟 Featured projects
 
