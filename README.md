@@ -2,7 +2,9 @@
 
 # Hey, I'm Rishab 👋
 
-**Founder of The Moksha Miles** · Full-Stack Developer in Progress • Building products by mastering the fundamentals
+**Founder of The Moksha Miles** 
+· Full-Stack Developer in Progress 
+. Building products by mastering the fundamentals
 
 I enjoy turning ideas into real-world products while understanding the technology that powers them. My focus is on learning from first principles, from browser rendering and raw DOM manipulation to building scalable full-stack applications with authentication, databases, APIs, and modern ORMs. Every project is an opportunity to deepen my knowledge and write better software.
 
@@ -75,13 +77,23 @@ I enjoy turning ideas into real-world products while understanding the technolog
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rishu1208m&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishu1208m&theme=tokyonight&hide_border=true" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishu1208m&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+  <img src="https://streak-stats.demolab.com?user=rishu1208m&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ### 🔗 Connect with me
 
-<p>
-  <a href="www.linkedin.com/in/rishab-mishra-b3b5a0312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishab-mishra-b3b5a0312" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="rishabmishra1208@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/rishu1208m">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
