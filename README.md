@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishab Mishra</h1>
 
 <h3 align="center">
-Founder of <b>The Moksha Miles</b> • Full-Stack Developer • Learning by Building
+• Full-Stack Developer • Learning by Building • Open to SDE Role
 </h3>
 
 <p align="center">
@@ -27,7 +27,6 @@ From browser rendering and raw DOM manipulation to scalable full-stack applicati
 
 # 🚀 About Me
 
-- 🧳 Founder of **The Moksha Miles**, building a premium travel platform from scratch.
 - 🎓 Final-year BCA student at **Netaji Subhash Engineering College (MAKAUT)**.
 - 💻 Passionate about building production-ready software while mastering the fundamentals.
 - 🌱 Currently learning **Data Structures & Algorithms**, **System Design**, **Generative AI**, and **Advanced Full-Stack Development**.
